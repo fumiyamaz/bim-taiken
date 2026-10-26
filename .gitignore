@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 実行時に生成されるファイル
+*.csv
+/bim_taiken_house.ifc
+
+# エディタ・OS
+.claude/
+.vscode/
+.DS_Store
+Thumbs.db
